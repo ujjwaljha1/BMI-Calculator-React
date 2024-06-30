@@ -98,4 +98,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to adjust any parts of this README to better fit your project's details or style preferences.
