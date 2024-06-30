@@ -69,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # BMI-Calculator-React
+
+<img width="610" alt="image" src="https://github.com/ujjwaljha1/BMI-Calculator-React/assets/113511960/7e951612-1bb9-40e8-a296-9edd0ed8a49b">
+
